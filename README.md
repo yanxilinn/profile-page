@@ -1,9 +1,10 @@
 <br/>  
  
-<table><tr><td valign="top" width="50%">
+<table><tr>
+<td valign="top" width="50%">
 
-### 🔭Glad to see you here!  
-Hi, my name is Yanxi lin. I'm a fullstack software engineer with a passion for Javascript, React, Redux, and building applications that provide utility and accessible UI for people. I enjoy helping people finding question and solving them🌱. 
+## 🔭Glad to see you here!  
+Hi, my name is Yanxi lin. I'm a fullstack software engineer with a passion for Javascript, React, Redux, and building applications that provide utility and accessible UI for people. I enjoy helping people finding question and solving them. 
 
 On a more personal note, I enjoy playing the violin. I have been playing music for more than 20 years. I found peace in music and it purifies my soul. I speak multiple languages and understand multiple cultures. It helps a lot with the diversity of my thinking.  
 
@@ -14,9 +15,13 @@ On a more personal note, I enjoy playing the violin. I have been playing music f
 <img src="https://user-images.githubusercontent.com/44556484/199298550-0045896e-6a74-4e82-a06b-23d7ec552735.gif" align="center" style="width: 100%"  />
 
 </div>  
-
-
 </td></tr></table>  
+
+ 
+### Ask me about my projects 🌱
+ 🍽 [Meals4u](https://meals4yo.herokuapp.com/) - An app can randomly choose the meal for users by spinning default wheel or customized wheels <br/>
+ 🏕️ [FindTrails](https://find-trails.herokuapp.com/) - A web app inspired by AllTrails, discover parks, trails and more to explore the outdoors <br/>
+ 🏓 [Webable-Tennis](https://yanxilinn.github.io/Webable-Tennis/) - An interactive JavaScript and HTML Canvas tennis game 
 
 <br/>  
 
