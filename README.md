@@ -12,7 +12,7 @@ On a more personal note, I enjoy playing the violin. I have been playing music f
 </td><td valign="top" width="50%">
 
 <div justify="center" align="center" >
-<img src="https://user-images.githubusercontent.com/44556484/199298550-0045896e-6a74-4e82-a06b-23d7ec552735.gif" align="center" style="width: 100%"  />
+<img src="https://user-images.githubusercontent.com/44556484/199335912-e6ad0dff-3e80-4afd-89f6-c024d415b723.gif" align="center" style="width: 100%"  />
 
 </div>  
 </td></tr></table>  
