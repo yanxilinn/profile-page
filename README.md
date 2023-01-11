@@ -19,7 +19,7 @@ On a more personal note, I enjoy playing the violin. I have been playing music f
 
  
 ### Ask me about my projects 🌱
- 🍽 [Meals4u](https://meals4yo.herokuapp.com/) - An app can randomly choose the meal for users by spinning default wheel or customized wheels <br/>
+ 🍽 [Meals4u](https://meals4u.onrender.com/) - An app can randomly choose the meal for users by spinning default wheel or customized wheels <br/>
  🏕️ [FindTrails](https://find-trails.herokuapp.com/) - A web app inspired by AllTrails, discover parks, trails and more to explore the outdoors <br/>
  🏓 [Webable-Tennis](https://yanxilinn.github.io/Webable-Tennis/) - An interactive JavaScript and HTML Canvas tennis game 
 
